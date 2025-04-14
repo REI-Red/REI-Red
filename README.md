@@ -16,6 +16,7 @@
     <br />
 <p align="center">
     <img src="https://i.imgur.com/CA45dbW.jpeg" alt="🤭" />
+    <br />
     <h4 align="center">🧑‍💻</h4>
     <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
