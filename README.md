@@ -18,6 +18,6 @@
 <h3 align="center">What is it?</h3>
 <br />
 <b align="center">
-    <img srch="" alt="🤭" />
+    <img srch="https://i.imgur.com/CA45dbW.jpeg" alt="🤭" />
 </p>
 
