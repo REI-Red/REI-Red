@@ -16,5 +16,8 @@
     <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <h3 align="center">What is it?</h3>
+<br />
+<b align="center">
+    <img srch="" alt="🤭" />
 </p>
 
