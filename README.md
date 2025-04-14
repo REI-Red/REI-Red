@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://i.imgur.com/RRAPcHw.jpeg" alt="😋" />
   <br />
-  <i>Cool Boys 🧑‍💻</i>
+  <i>🧑‍💻</i>
     <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <h3 align="center">What is it?</h3>
