@@ -15,7 +15,7 @@
   <h4 align="center">🧑‍💻</h4>
     <br />
 <p align="center">
-  <img src="https://i.imgur.com/RRAPcHw.jpeg" alt="😋" />
+  <img src="https://i.imgur.com/CA45dbW.jpeg" alt="😋" />
   <br />
   <h4 align="center">🧑‍💻</h4>
     <br />
