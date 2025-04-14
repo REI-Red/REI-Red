@@ -14,13 +14,11 @@
   <br />
   <h4 align="center">🧑‍💻</h4>
     <br />
-</p>
-<b align="center">
-    <img src="https://i.imgur.com/CA45dbW.jpeg" alt="🤭" />
+<p align="center">
+  <img src="https://i.imgur.com/RRAPcHw.jpeg" alt="😋" />
+  <br />
+  <h4 align="center">🧑‍💻</h4>
     <br />
-    <h5 align="left">🧑‍💻</h5>
-    <br />
-</b>
     <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <h3 align="center">What is it?</h3>
