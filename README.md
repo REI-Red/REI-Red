@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://github.com/REI3886">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=6000&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=hai,+i+am+REII+offc;"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=6000&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=hai,+i+am+REI+offc;"
             alt="Typing SVG"
         />
     </a>
