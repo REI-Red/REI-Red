@@ -1,24 +1,69 @@
-<div align="center">
-  <a href="https://github.com/REI3886">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=6000&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=hai,+i+am+REI+offc;"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+# 👋 Hi, I'm REI-Red
 
-<div align="center">
-  <img src="https://i.imgur.com/RRAPcHw.jpeg" alt="😋" />
-  <br />
-  <h4>🧑‍💻</h4>
-</div>
+> Curious mind. Tech enthusiast. Learning by breaking things.
 
-<div align="center">
-  <img src="https://i.imgur.com/CA45dbW.jpeg" alt="😋" />
-  <br />
-  <h4>😹</h4>
-</div>
+---
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+## 🚀 About Me
 
-<h3 align="center">What is it?</h3>
+I’m **REI**, a student who loves exploring how things work —  
+from **hardware**, **software**, **networks**, to **digital security**.
+
+I enjoy:
+- 🧠 Understanding systems (not just using them)
+- 🔧 Experimenting & reverse-thinking
+- 🔐 Privacy, encryption, and security concepts
+- 🎧 High-quality audio & digital formats
+- ⚡ Technology that *actually makes sense*
+
+I believe learning is best done by **trying, failing, and trying again**.
+
+---
+
+## 🛠️ Interests & Skills
+
+- 💻 Basic programming & scripting
+- 🔌 Electronics & hardware tinkering
+- 🌐 Networking fundamentals
+- 🔐 Encryption & data security concepts
+- 📱 Android system & customization
+- 🎨 Digital creativity & editing
+
+> Still learning. Always learning.
+
+---
+
+## 📂 Repositories
+
+Here you’ll find:
+- 🧪 Experiments & tests
+- 📄 Notes & documentation
+- 🔧 Small tools & configs
+- 🧠 Random ideas turned into projects
+
+Nothing fancy — just real learning progress.
+
+---
+
+## 📖 Philosophy
+
+> “If you really care about your data,  
+> you must also accept the risk of losing it.”
+
+No shortcuts.  
+No fake security.  
+No blind trust.
+
+---
+
+## 📫 Contact
+
+If you’re curious, learning, or just like tech discussions:
+
+- GitHub: **REI-Red**
+
+---
+
+<p align="center">
+  <i>Minimal. Curious. Real.</i>
+</p>
