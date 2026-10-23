@@ -47,8 +47,9 @@ Nothing fancy — just real learning progress.
 
 ## 📖 Philosophy
 
-> “If you really care about your data,  
-> you must also accept the risk of losing it.”
+> “Trust math, not luck.”
+
+---
 
 No shortcuts.  
 No fake security.  
