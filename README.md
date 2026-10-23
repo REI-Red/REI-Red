@@ -47,7 +47,7 @@ Nothing fancy — just real learning progress.
 
 ## 📖 Philosophy
 
-> “Trust math, not luck.”
+> ”Where there is privacy, there is peace.”
 
 ---
 
